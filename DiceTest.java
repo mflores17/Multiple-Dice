@@ -26,3 +26,5 @@ public class DiceTest
 		return total; //returns the total number added up from all the rolls
 	}
 }
+
+// Good job, but the naming of the classes are a bit backward, isn't it?
